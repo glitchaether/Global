@@ -1,0 +1,12 @@
+[package]
+name = "glitchaether/global"
+author = ["Glitch Aether"]
+description = "Module that helps creating global variables and functions. See doc on https://github.com/glitchaether/Global"
+license = "MIT"
+version = "1.0.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+signal = "sleitnick/signal@2.0.3"
+trove = "sleitnick/trove@1.5.1"
