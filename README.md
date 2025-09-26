@@ -12,7 +12,7 @@ Add to your `wally.toml`:
 
 ```toml
 [dependencies]
-GlobalModule = "yourusername/globalmodule@1.0.0"
+GlobalModule = "yourusername/globalmodule@1.0.1"
 ```
 
 Then run:
